@@ -1,6 +1,6 @@
 {
     "short_name": "PWA weather",
-    "name": "aplicación web progresiba del clima",
+    "name": "aplicación web progresiva del clima",
     "icons": [
         {
             "src": "/images/logo.png",
@@ -8,7 +8,7 @@
             "sizes": "1024x1024"
         }
     ],
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
